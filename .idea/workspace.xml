@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2765d04e-b0a2-47dc-a58c-689c488cccab" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/workchain.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/workchain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/test/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\WebstormProjects\Internship\Training\edward_mbkm\test\contracts" />
+      <recent name="C:\Users\Lenovo\WebstormProjects\Internship\Training\edward_mbkm\test\scripts" />
       <recent name="C:\Users\Lenovo\WebstormProjects\Internship\Training\edward_mbkm\test" />
       <recent name="C:\Users\Lenovo\WebstormProjects\Internship\Training\edward_mbkm\test\src" />
       <recent name="C:\Users\Lenovo\WebstormProjects\Internship\Training\edward_mbkm" />
@@ -57,7 +60,10 @@
       <option name="presentableId" value="Default" />
       <updated>1696012292040</updated>
       <workItem from="1696012293451" duration="3074000" />
-      <workItem from="1696016461693" duration="13382000" />
+      <workItem from="1696016461693" duration="19459000" />
+      <workItem from="1696529973090" duration="2193000" />
+      <workItem from="1696699896426" duration="2536000" />
+      <workItem from="1697217216077" duration="52000" />
     </task>
     <servers />
   </component>

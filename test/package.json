@@ -1,11 +1,22 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Edward Christopher\r ***\r Christophert.edward11@gmail.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.0"
+  },
+  "dependencies": {
+    "ethers": "^6.7.1"
+  }
 }
